@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "numerus",
+      "rootUri": "file:///C:/Users/oscar/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/numerus-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "oscar",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-09-23T17:48:35.483326Z",
+  "generator": "pub",
+  "generatorVersion": "2.14.2"
+}
