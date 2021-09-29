@@ -5,9 +5,7 @@ class nIterator {
   int _nEle;
   Set<int> set = {};
 
-  nIterator(int numE) {
-    _nEle = numE;
-  }
+  nIterator(this._nEle);
 
   nIterator.withList(int numE) {
     _nEle = numE;
